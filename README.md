@@ -21,7 +21,7 @@ let aliendro = {
 
 ---
 
-#### 📫 How and where to find me?
+#### 📫 Let's connect
 
 I'm always trying to connect and communicate with different people, so if you want to reach me I'll be glad to chat and discuss anything code-related!
 
