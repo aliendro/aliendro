@@ -5,7 +5,7 @@
 ⚡ *I'm a front-end developer specialized in React and Typescript.*  
 🌱 *Currently learning [Remix](https://remix.run/).*  
 🔭 *Looking forward to contribute to open-source projects.*  
-🐈 *Fun fact: I have two cats: Tom & Lana.* 🐈
+🐈 *Fun fact: I have two cats, Tom & Lana.* 🐈
 
 
 #### About me
