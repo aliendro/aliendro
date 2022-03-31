@@ -2,8 +2,7 @@
 
 ---
 
-⚡ *I'm a front-end developer specialized in React and Typescript.*  
-🌱 *Currently learning [Remix](https://remix.run/).*  
+⚡ *I'm a front-end developer.*  
 🔭 *Looking forward to contribute to open-source projects.*  
 🐈 *Fun fact: I have two cats, Tom & Lana.* 🐈
 
@@ -14,7 +13,7 @@
 let aliendro = {
   pronouns: 'he' | 'his',
   skills: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux', 'TailwindCSS', 'NextJS', 'Jest'],
+  tools: ['React', 'Redux', 'TailwindCSS', 'NextJS', 'Jest', 'React Testing Library'],
   goal: 'Create beautiful and scalable user interfaces focusing on reusability, performance and accessibility',
 };
 ```
