@@ -3,24 +3,8 @@
 ---
 
 ⚡ *I'm a front-end developer.*  
-🔭 *OSS aficionado*  
+🔭 *OSS enthusiast*  
 🐈 *Fun fact: I have two cats, Tom & Lana.* 🐈
-
-
-#### About me
-
-```js
-let aliendro = {
-  pronouns: 'he' | 'his',
-  skills: ['JS/TS', 'HTML/CSS', 'Node', 'Go'],
-  frameworks: ['React', 'Svelte', 'Sveltekit', 'NextJS'],
-  tools: ['Redux', 'TailwindCSS', 'Sass', 'PostCSS'],
-  testing: ['Storybook', 'Jest', 'RTL'],
-  goal: 'Create beautiful and scalable user interfaces focusing on reusability, performance and accessibility',
-};
-```
-
----
 
 #### 📫 Let's connect
 
