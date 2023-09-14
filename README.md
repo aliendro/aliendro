@@ -2,9 +2,8 @@
 
 ---
 
-⚡ *I'm a front-end developer.*  
 🔭 *OSS enthusiast*  
-🐈 *Fun fact: I have two cats, Tom & Lana.* 🐈
+🐈 *Cat lover*
 
 #### 📫 Let's connect
 
