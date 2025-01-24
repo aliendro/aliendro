@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Michael Aliendro.
+### Hi there 👋 
+I'm Michael, a software engineer from Brazil. You can find my latest projects here. 
+
+Feel free to reach out if you want do discuss anything code related :)
 
 ---
 
@@ -8,5 +11,3 @@
 #### 📫 Let's connect
 
 [![Email](https://img.shields.io/badge/-aliendrosw@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliendrosw@gmail.com)](mailto:aliendrosw@gmail.com)
-[![Linkedin: aliendro](https://img.shields.io/badge/-aliendro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliendro/)](https://www.linkedin.com/in/aliendro/)
-![GitHub followers](https://img.shields.io/github/followers/aliendro?style=social)
