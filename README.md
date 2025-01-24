@@ -1,8 +1,6 @@
 ### Hi there 👋 
 I'm Michael, a software engineer from Brazil. You can find my latest projects here. 
 
-Feel free to reach out if you want do discuss anything code related :)
-
 ---
 
 🔭 *OSS enthusiast*  
