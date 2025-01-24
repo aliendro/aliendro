@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Michael](https://aliendro.com). 
+### Hi there 👋 I'm Michael Aliendro.
 
 ---
 
